@@ -26,3 +26,4 @@ for i in range(min_len):
         res = (res * math.comb(n, k)) % M
         
 print(res)
+ 
