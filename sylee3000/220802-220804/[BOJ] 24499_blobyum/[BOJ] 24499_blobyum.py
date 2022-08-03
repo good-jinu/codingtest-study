@@ -19,3 +19,4 @@ for i in range(N + K):
         if part_sum > res:
             res = part_sum
 print(res)
+ 
